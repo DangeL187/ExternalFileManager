@@ -1,0 +1,3 @@
+cpp "D:/CLion 2023.2.2/bin/clion64.exe" --line 1
+hpp "D:/CLion 2023.2.2/bin/clion64.exe" --line 1
+h "D:/CLion 2023.2.2/bin/clion64.exe" --line 1

@@ -1,0 +1,4 @@
+C:/Users/danii/CLionProjects/EFM/include C:/Users/danii/CLionProjects/EFM/src
+C:/Users/danii/CLionProjects/EFM/include/Elements C:/Users/danii/CLionProjects/EFM/src/Elements
+C:/Users/danii/CLionProjects/EFM/include/Window C:/Users/danii/CLionProjects/EFM/src/Window
+C:/Users/danii/CLionProjects/EFM/include/Workspace C:/Users/danii/CLionProjects/EFM/src/Workspace
